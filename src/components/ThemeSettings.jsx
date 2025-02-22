@@ -37,7 +37,7 @@ const ThemeSettings = () => {
                         checked={true}                        
                         />
                         <label htmlFor="light" className="ml-2 text-md cursor-pointer">
-                        Light
+                        Lightsss
                         </label>
                     </div>
 
